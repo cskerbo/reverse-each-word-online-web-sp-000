@@ -1,5 +1,5 @@
-def reverse_each_word(string)
-words = string
+def reverse_each_word(sentence)
+words = [sentence]
 puts words
 
 end
