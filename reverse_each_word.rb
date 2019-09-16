@@ -3,4 +3,5 @@ string = []
   string.each do |sentence|
     sentence.reverse
   end
+string
 end
