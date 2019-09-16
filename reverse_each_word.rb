@@ -3,4 +3,5 @@ words = [string]
 words.each do |word|
   words = word.reverse
 end
+words
 end
